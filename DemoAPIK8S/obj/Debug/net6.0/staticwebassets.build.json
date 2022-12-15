@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sBWF0aGm6yk7d7qmFcCbAmLd1TZChtA51nOL43z0gKQ=",
+  "Source": "DemoAPIK8S",
+  "BasePath": "_content/DemoAPIK8S",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
